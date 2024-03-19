@@ -16,6 +16,9 @@ body {
 header {
     background-color:blue;
 }
+h1 {
+    font-family:'Oswald', sans-serif;
+}
 main {
     background-color:red;
     flex:1 0 auto
