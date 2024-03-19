@@ -72,9 +72,15 @@ display:block;
     font-size:2rem;
 }
 main {
-    background-color:red;
     flex:1 0 auto;
     margin-top:47px;
+}
+/* hero shit */
+#hero {
+    height:600px;
+    width:100%;
+    background-color:lightgray;
+    background:urL("../images/hero image.webp") no-repeat center/cover;
 }
 #social-networks {
     text-align:center;
