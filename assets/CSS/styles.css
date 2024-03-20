@@ -43,6 +43,10 @@ h3 {
 
 }
 
+.hidden-heading {
+    display:none;
+}
+
 .active {
     border-bottom: 1px solid #3a3a3a;
 
